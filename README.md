@@ -1,25 +1,25 @@
-# JobManager - Job Application Tracking System
+# JobManager - Sistema de Acompanhamento de Candidaturas de Emprego
 
 [![Django](https://img.shields.io/badge/Django-3.2-green)](https://www.djangoproject.com/)
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
 
-## About the Project
+## Sobre o Projeto
 
-**JobManager** is a web application built with Django that allows you to register, manage, and track job positions you have applied for. Ideal for organizing your selection process and keeping everything in one place.
-
----
-
-## Features
-
-- Registration of applied jobs with details such as company, position, application date, and status.
-- View ongoing and completed job applications.
-- Filters and searches to facilitate tracking.
-- Simple and responsive interface.
+**JobManager** é uma aplicação web desenvolvida com Django que permite registrar, gerenciar e acompanhar as vagas de emprego para as quais você se candidatou. Ideal para organizar seus processos seletivos e manter tudo em um só lugar.
 
 ---
 
-## Technologies Used
+## Funcionalidades
+
+- Registro de vagas com detalhes como empresa, cargo, data da candidatura e status.
+- Visualização de candidaturas em andamento e concluídas.
+- Filtros e buscas para facilitar o acompanhamento.
+- Interface simples e responsiva.
+
+---
+
+## Tecnologias Utilizadas
 
 - Python 3.10
 - Django 3.2
-- SQLite (database)
+- SQLite (banco de dados)
